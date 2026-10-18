@@ -2,12 +2,16 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 10 · Projects: 9**
+**Merged PRs: 14 · Projects: 13**
 
 | Project | Merged pull requests |
 | --- | --- |
+| [agronholm/anyio](https://github.com/agronholm/anyio) | [#1422](https://github.com/agronholm/anyio/pull/1422) |
 | [apache/commons-lang](https://github.com/apache/commons-lang) | [#1824](https://github.com/apache/commons-lang/pull/1824) |
+| [apache/commons-numbers](https://github.com/apache/commons-numbers) | [#223](https://github.com/apache/commons-numbers/pull/223) |
+| [apache/poi](https://github.com/apache/poi) | [#1433](https://github.com/apache/poi/pull/1433) |
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
+| [Kong/unirest-java](https://github.com/Kong/unirest-java) | [#582](https://github.com/Kong/unirest-java/pull/582) |
 | [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) |
 | [pypa/distlib](https://github.com/pypa/distlib) | [#277](https://github.com/pypa/distlib/pull/277) |
 | [pypa/pipx](https://github.com/pypa/pipx) | [#2157](https://github.com/pypa/pipx/pull/2157) |
