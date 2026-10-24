@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 30 · Projects: 28**
+**Merged PRs: 33 · Projects: 31**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -17,7 +17,9 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [jaraco/inflect](https://github.com/jaraco/inflect) | [#281](https://github.com/jaraco/inflect/pull/281) |
 | [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) | [#817](https://github.com/jawah/charset_normalizer/pull/817) |
 | [Kong/unirest-java](https://github.com/Kong/unirest-java) | [#582](https://github.com/Kong/unirest-java/pull/582) |
+| [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2045](https://github.com/langfuse/langfuse-python/pull/2045) |
 | [lepture/mistune](https://github.com/lepture/mistune) | [#506](https://github.com/lepture/mistune/pull/506) |
+| [MaxHalford/prince](https://github.com/MaxHalford/prince) | [#261](https://github.com/MaxHalford/prince/pull/261) |
 | [mindee/doctr](https://github.com/mindee/doctr) | [#2173](https://github.com/mindee/doctr/pull/2173) |
 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | [#2905](https://github.com/Mirascope/mirascope/pull/2905) |
 | [msgspec/msgspec](https://github.com/msgspec/msgspec) | [#1284](https://github.com/msgspec/msgspec/pull/1284) |
@@ -33,6 +35,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [tox-dev/filelock](https://github.com/tox-dev/filelock) | [#855](https://github.com/tox-dev/filelock/pull/855) |
 | [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) | [#625](https://github.com/tox-dev/platformdirs/pull/625) |
 | [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api) | [#322](https://github.com/tox-dev/pyproject-api/pull/322) |
+| [weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client) | [#2209](https://github.com/weaviate/weaviate-python-client/pull/2209) |
 | [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) | [#1076](https://github.com/websocket-client/websocket-client/pull/1076) |
 
 This page is generated from GitHub's merged-PR records. Open, draft, and closed-unmerged PRs are not counted.
