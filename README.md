@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 33 · Projects: 31**
+**Merged PRs: 35 · Projects: 33**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -13,6 +13,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [apache/poi](https://github.com/apache/poi) | [#1433](https://github.com/apache/poi/pull/1433) |
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
+| [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
 | [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) | [#286](https://github.com/graphql-python/graphql-core/pull/286) |
 | [jaraco/inflect](https://github.com/jaraco/inflect) | [#281](https://github.com/jaraco/inflect/pull/281) |
 | [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) | [#817](https://github.com/jawah/charset_normalizer/pull/817) |
@@ -26,6 +27,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) | [#95](https://github.com/nhairs/python-json-logger/pull/95) |
 | [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) |
 | [pypa/distlib](https://github.com/pypa/distlib) | [#277](https://github.com/pypa/distlib/pull/277) |
+| [pypa/flit](https://github.com/pypa/flit) | [#834](https://github.com/pypa/flit/pull/834) |
 | [pypa/pipx](https://github.com/pypa/pipx) | [#2157](https://github.com/pypa/pipx/pull/2157) |
 | [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) | [#342](https://github.com/pypa/pyproject-metadata/pull/342) |
 | [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) | [#1779](https://github.com/python-cmd2/cmd2/pull/1779) |
