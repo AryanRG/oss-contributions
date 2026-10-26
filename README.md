@@ -2,12 +2,14 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 35 · Projects: 33**
+**Merged PRs: 40 · Projects: 37**
 
 | Project | Merged pull requests |
 | --- | --- |
 | [agronholm/anyio](https://github.com/agronholm/anyio) | [#1422](https://github.com/agronholm/anyio/pull/1422) |
+| [agronholm/exceptiongroup](https://github.com/agronholm/exceptiongroup) | [#159](https://github.com/agronholm/exceptiongroup/pull/159) |
 | [apache/commons-codec](https://github.com/apache/commons-codec) | [#448](https://github.com/apache/commons-codec/pull/448) |
+| [apache/commons-io](https://github.com/apache/commons-io) | [#887](https://github.com/apache/commons-io/pull/887) |
 | [apache/commons-lang](https://github.com/apache/commons-lang) | [#1824](https://github.com/apache/commons-lang/pull/1824) |
 | [apache/commons-numbers](https://github.com/apache/commons-numbers) | [#223](https://github.com/apache/commons-numbers/pull/223) |
 | [apache/poi](https://github.com/apache/poi) | [#1433](https://github.com/apache/poi/pull/1433) |
@@ -25,12 +27,14 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | [#2905](https://github.com/Mirascope/mirascope/pull/2905) |
 | [msgspec/msgspec](https://github.com/msgspec/msgspec) | [#1284](https://github.com/msgspec/msgspec/pull/1284) |
 | [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) | [#95](https://github.com/nhairs/python-json-logger/pull/95) |
-| [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) |
+| [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) · [#642](https://github.com/openlawlibrary/pygls/pull/642) |
 | [pypa/distlib](https://github.com/pypa/distlib) | [#277](https://github.com/pypa/distlib/pull/277) |
 | [pypa/flit](https://github.com/pypa/flit) | [#834](https://github.com/pypa/flit/pull/834) |
 | [pypa/pipx](https://github.com/pypa/pipx) | [#2157](https://github.com/pypa/pipx/pull/2157) |
 | [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) | [#342](https://github.com/pypa/pyproject-metadata/pull/342) |
 | [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) | [#1779](https://github.com/python-cmd2/cmd2/pull/1779) |
+| [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | [#761](https://github.com/RapidAI/RapidOCR/pull/761) |
+| [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | [#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391) |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | [#1361](https://github.com/rthalley/dnspython/pull/1361) |
 | [skops-dev/skops](https://github.com/skops-dev/skops) | [#559](https://github.com/skops-dev/skops/pull/559) |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | [#4651](https://github.com/tesseract-ocr/tesseract/pull/4651) · [#4652](https://github.com/tesseract-ocr/tesseract/pull/4652) |
