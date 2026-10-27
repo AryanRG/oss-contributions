@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 40 · Projects: 37**
+**Merged PRs: 47 · Projects: 44**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -16,12 +16,15 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
 | [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
+| [dpkp/kafka-python](https://github.com/dpkp/kafka-python) | [#3169](https://github.com/dpkp/kafka-python/pull/3169) |
+| [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) | [#2287](https://github.com/fsspec/filesystem_spec/pull/2287) |
 | [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) | [#286](https://github.com/graphql-python/graphql-core/pull/286) |
 | [jaraco/inflect](https://github.com/jaraco/inflect) | [#281](https://github.com/jaraco/inflect/pull/281) |
 | [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) | [#817](https://github.com/jawah/charset_normalizer/pull/817) |
 | [Kong/unirest-java](https://github.com/Kong/unirest-java) | [#582](https://github.com/Kong/unirest-java/pull/582) |
 | [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2045](https://github.com/langfuse/langfuse-python/pull/2045) |
 | [lepture/mistune](https://github.com/lepture/mistune) | [#506](https://github.com/lepture/mistune/pull/506) |
+| [mammothb/symspellpy](https://github.com/mammothb/symspellpy) | [#209](https://github.com/mammothb/symspellpy/pull/209) |
 | [MaxHalford/prince](https://github.com/MaxHalford/prince) | [#261](https://github.com/MaxHalford/prince/pull/261) |
 | [mindee/doctr](https://github.com/mindee/doctr) | [#2173](https://github.com/mindee/doctr/pull/2173) |
 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | [#2905](https://github.com/Mirascope/mirascope/pull/2905) |
@@ -36,12 +39,16 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | [#761](https://github.com/RapidAI/RapidOCR/pull/761) |
 | [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | [#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391) |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | [#1361](https://github.com/rthalley/dnspython/pull/1361) |
+| [sbi-dev/sbi](https://github.com/sbi-dev/sbi) | [#2094](https://github.com/sbi-dev/sbi/pull/2094) |
+| [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) | [#611](https://github.com/sknetwork-team/scikit-network/pull/611) |
 | [skops-dev/skops](https://github.com/skops-dev/skops) | [#559](https://github.com/skops-dev/skops/pull/559) |
+| [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) | [#10590](https://github.com/statsmodels/statsmodels/pull/10590) |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | [#4651](https://github.com/tesseract-ocr/tesseract/pull/4651) · [#4652](https://github.com/tesseract-ocr/tesseract/pull/4652) |
 | [tox-dev/filelock](https://github.com/tox-dev/filelock) | [#855](https://github.com/tox-dev/filelock/pull/855) |
 | [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) | [#625](https://github.com/tox-dev/platformdirs/pull/625) |
 | [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api) | [#322](https://github.com/tox-dev/pyproject-api/pull/322) |
 | [weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client) | [#2209](https://github.com/weaviate/weaviate-python-client/pull/2209) |
 | [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) | [#1076](https://github.com/websocket-client/websocket-client/pull/1076) |
+| [zillow/quantile-forest](https://github.com/zillow/quantile-forest) | [#168](https://github.com/zillow/quantile-forest/pull/168) |
 
 This page is generated from GitHub's merged-PR records. Open, draft, and closed-unmerged PRs are not counted.
