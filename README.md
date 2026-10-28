@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 47 · Projects: 44**
+**Merged PRs: 52 · Projects: 48**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -15,6 +15,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [apache/poi](https://github.com/apache/poi) | [#1433](https://github.com/apache/poi/pull/1433) |
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
+| [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | [#2111](https://github.com/datachain-ai/datachain/pull/2111) |
 | [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
 | [dpkp/kafka-python](https://github.com/dpkp/kafka-python) | [#3169](https://github.com/dpkp/kafka-python/pull/3169) |
 | [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) | [#2287](https://github.com/fsspec/filesystem_spec/pull/2287) |
@@ -31,11 +32,13 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [msgspec/msgspec](https://github.com/msgspec/msgspec) | [#1284](https://github.com/msgspec/msgspec/pull/1284) |
 | [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) | [#95](https://github.com/nhairs/python-json-logger/pull/95) |
 | [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) · [#642](https://github.com/openlawlibrary/pygls/pull/642) |
+| [optuna/optunahub](https://github.com/optuna/optunahub) | [#154](https://github.com/optuna/optunahub/pull/154) |
+| [pydata/xarray](https://github.com/pydata/xarray) | [#11808](https://github.com/pydata/xarray/pull/11808) |
 | [pypa/distlib](https://github.com/pypa/distlib) | [#277](https://github.com/pypa/distlib/pull/277) |
 | [pypa/flit](https://github.com/pypa/flit) | [#834](https://github.com/pypa/flit/pull/834) |
 | [pypa/pipx](https://github.com/pypa/pipx) | [#2157](https://github.com/pypa/pipx/pull/2157) |
 | [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) | [#342](https://github.com/pypa/pyproject-metadata/pull/342) |
-| [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) | [#1779](https://github.com/python-cmd2/cmd2/pull/1779) |
+| [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) | [#1778](https://github.com/python-cmd2/cmd2/pull/1778) · [#1779](https://github.com/python-cmd2/cmd2/pull/1779) |
 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | [#761](https://github.com/RapidAI/RapidOCR/pull/761) |
 | [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | [#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391) |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | [#1361](https://github.com/rthalley/dnspython/pull/1361) |
@@ -47,6 +50,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [tox-dev/filelock](https://github.com/tox-dev/filelock) | [#855](https://github.com/tox-dev/filelock/pull/855) |
 | [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) | [#625](https://github.com/tox-dev/platformdirs/pull/625) |
 | [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api) | [#322](https://github.com/tox-dev/pyproject-api/pull/322) |
+| [unit8co/darts](https://github.com/unit8co/darts) | [#3304](https://github.com/unit8co/darts/pull/3304) |
 | [weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client) | [#2209](https://github.com/weaviate/weaviate-python-client/pull/2209) |
 | [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) | [#1076](https://github.com/websocket-client/websocket-client/pull/1076) |
 | [zillow/quantile-forest](https://github.com/zillow/quantile-forest) | [#168](https://github.com/zillow/quantile-forest/pull/168) |
