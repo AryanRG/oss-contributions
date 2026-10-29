@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 52 · Projects: 48**
+**Merged PRs: 54 · Projects: 50**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -16,6 +16,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
 | [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | [#2111](https://github.com/datachain-ai/datachain/pull/2111) |
+| [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits) | [#84](https://github.com/david-cortes/contextualbandits/pull/84) |
 | [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
 | [dpkp/kafka-python](https://github.com/dpkp/kafka-python) | [#3169](https://github.com/dpkp/kafka-python/pull/3169) |
 | [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) | [#2287](https://github.com/fsspec/filesystem_spec/pull/2287) |
@@ -33,6 +34,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) | [#95](https://github.com/nhairs/python-json-logger/pull/95) |
 | [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) · [#642](https://github.com/openlawlibrary/pygls/pull/642) |
 | [optuna/optunahub](https://github.com/optuna/optunahub) | [#154](https://github.com/optuna/optunahub/pull/154) |
+| [psycopg/psycopg](https://github.com/psycopg/psycopg) | [#1447](https://github.com/psycopg/psycopg/pull/1447) |
 | [pydata/xarray](https://github.com/pydata/xarray) | [#11808](https://github.com/pydata/xarray/pull/11808) |
 | [pypa/distlib](https://github.com/pypa/distlib) | [#277](https://github.com/pypa/distlib/pull/277) |
 | [pypa/flit](https://github.com/pypa/flit) | [#834](https://github.com/pypa/flit/pull/834) |
