@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 54 · Projects: 50**
+**Merged PRs: 55 · Projects: 51**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -48,6 +48,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) | [#611](https://github.com/sknetwork-team/scikit-network/pull/611) |
 | [skops-dev/skops](https://github.com/skops-dev/skops) | [#559](https://github.com/skops-dev/skops/pull/559) |
 | [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) | [#10590](https://github.com/statsmodels/statsmodels/pull/10590) |
+| [tensorly/tensorly](https://github.com/tensorly/tensorly) | [#691](https://github.com/tensorly/tensorly/pull/691) |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | [#4651](https://github.com/tesseract-ocr/tesseract/pull/4651) · [#4652](https://github.com/tesseract-ocr/tesseract/pull/4652) |
 | [tox-dev/filelock](https://github.com/tox-dev/filelock) | [#855](https://github.com/tox-dev/filelock/pull/855) |
 | [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) | [#625](https://github.com/tox-dev/platformdirs/pull/625) |
