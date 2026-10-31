@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 55 · Projects: 51**
+**Merged PRs: 57 · Projects: 53**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -23,6 +23,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) | [#286](https://github.com/graphql-python/graphql-core/pull/286) |
 | [jaraco/inflect](https://github.com/jaraco/inflect) | [#281](https://github.com/jaraco/inflect/pull/281) |
 | [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) | [#817](https://github.com/jawah/charset_normalizer/pull/817) |
+| [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) | [#765](https://github.com/KevinMusgrave/pytorch-metric-learning/pull/765) |
 | [Kong/unirest-java](https://github.com/Kong/unirest-java) | [#582](https://github.com/Kong/unirest-java/pull/582) |
 | [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2045](https://github.com/langfuse/langfuse-python/pull/2045) |
 | [lepture/mistune](https://github.com/lepture/mistune) | [#506](https://github.com/lepture/mistune/pull/506) |
@@ -45,6 +46,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | [#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391) |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | [#1361](https://github.com/rthalley/dnspython/pull/1361) |
 | [sbi-dev/sbi](https://github.com/sbi-dev/sbi) | [#2094](https://github.com/sbi-dev/sbi/pull/2094) |
+| [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) | [#575](https://github.com/shankarpandala/lazypredict/pull/575) |
 | [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) | [#611](https://github.com/sknetwork-team/scikit-network/pull/611) |
 | [skops-dev/skops](https://github.com/skops-dev/skops) | [#559](https://github.com/skops-dev/skops/pull/559) |
 | [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) | [#10590](https://github.com/statsmodels/statsmodels/pull/10590) |
