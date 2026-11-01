@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 57 · Projects: 53**
+**Merged PRs: 58 · Projects: 54**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -47,6 +47,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | [#1361](https://github.com/rthalley/dnspython/pull/1361) |
 | [sbi-dev/sbi](https://github.com/sbi-dev/sbi) | [#2094](https://github.com/sbi-dev/sbi/pull/2094) |
 | [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) | [#575](https://github.com/shankarpandala/lazypredict/pull/575) |
+| [SimplexLab/TorchJD](https://github.com/SimplexLab/TorchJD) | [#835](https://github.com/SimplexLab/TorchJD/pull/835) |
 | [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) | [#611](https://github.com/sknetwork-team/scikit-network/pull/611) |
 | [skops-dev/skops](https://github.com/skops-dev/skops) | [#559](https://github.com/skops-dev/skops/pull/559) |
 | [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) | [#10590](https://github.com/statsmodels/statsmodels/pull/10590) |
