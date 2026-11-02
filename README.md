@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 58 · Projects: 54**
+**Merged PRs: 62 · Projects: 58**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -15,6 +15,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [apache/poi](https://github.com/apache/poi) | [#1433](https://github.com/apache/poi/pull/1433) |
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
+| [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat) | [#486](https://github.com/data-apis/array-api-compat/pull/486) |
 | [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | [#2111](https://github.com/datachain-ai/datachain/pull/2111) |
 | [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits) | [#84](https://github.com/david-cortes/contextualbandits/pull/84) |
 | [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
@@ -23,6 +24,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) | [#286](https://github.com/graphql-python/graphql-core/pull/286) |
 | [jaraco/inflect](https://github.com/jaraco/inflect) | [#281](https://github.com/jaraco/inflect/pull/281) |
 | [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) | [#817](https://github.com/jawah/charset_normalizer/pull/817) |
+| [kayak/pypika](https://github.com/kayak/pypika) | [#3548](https://github.com/kayak/pypika/pull/3548) |
 | [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) | [#765](https://github.com/KevinMusgrave/pytorch-metric-learning/pull/765) |
 | [Kong/unirest-java](https://github.com/Kong/unirest-java) | [#582](https://github.com/Kong/unirest-java/pull/582) |
 | [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2045](https://github.com/langfuse/langfuse-python/pull/2045) |
@@ -56,6 +58,8 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [tox-dev/filelock](https://github.com/tox-dev/filelock) | [#855](https://github.com/tox-dev/filelock/pull/855) |
 | [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs) | [#625](https://github.com/tox-dev/platformdirs/pull/625) |
 | [tox-dev/pyproject-api](https://github.com/tox-dev/pyproject-api) | [#322](https://github.com/tox-dev/pyproject-api/pull/322) |
+| [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) | [#786](https://github.com/tslearn-team/tslearn/pull/786) |
+| [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo) | [#429](https://github.com/TylerYep/torchinfo/pull/429) |
 | [unit8co/darts](https://github.com/unit8co/darts) | [#3304](https://github.com/unit8co/darts/pull/3304) |
 | [weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client) | [#2209](https://github.com/weaviate/weaviate-python-client/pull/2209) |
 | [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) | [#1076](https://github.com/websocket-client/websocket-client/pull/1076) |
