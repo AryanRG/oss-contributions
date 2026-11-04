@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 62 · Projects: 58**
+**Merged PRs: 65 · Projects: 61**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -13,6 +13,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [apache/commons-lang](https://github.com/apache/commons-lang) | [#1824](https://github.com/apache/commons-lang/pull/1824) |
 | [apache/commons-numbers](https://github.com/apache/commons-numbers) | [#223](https://github.com/apache/commons-numbers/pull/223) |
 | [apache/poi](https://github.com/apache/poi) | [#1433](https://github.com/apache/poi/pull/1433) |
+| [cdgriffith/Box](https://github.com/cdgriffith/Box) | [#342](https://github.com/cdgriffith/Box/pull/342) |
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
 | [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat) | [#486](https://github.com/data-apis/array-api-compat/pull/486) |
@@ -45,6 +46,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) | [#342](https://github.com/pypa/pyproject-metadata/pull/342) |
 | [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) | [#1778](https://github.com/python-cmd2/cmd2/pull/1778) · [#1779](https://github.com/python-cmd2/cmd2/pull/1779) |
 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | [#761](https://github.com/RapidAI/RapidOCR/pull/761) |
+| [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) | [#502](https://github.com/rapidfuzz/RapidFuzz/pull/502) |
 | [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | [#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391) |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython) | [#1361](https://github.com/rthalley/dnspython/pull/1361) |
 | [sbi-dev/sbi](https://github.com/sbi-dev/sbi) | [#2094](https://github.com/sbi-dev/sbi/pull/2094) |
@@ -52,6 +54,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [SimplexLab/TorchJD](https://github.com/SimplexLab/TorchJD) | [#835](https://github.com/SimplexLab/TorchJD/pull/835) |
 | [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network) | [#611](https://github.com/sknetwork-team/scikit-network/pull/611) |
 | [skops-dev/skops](https://github.com/skops-dev/skops) | [#559](https://github.com/skops-dev/skops/pull/559) |
+| [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) | [#1706](https://github.com/stanfordnlp/stanza/pull/1706) |
 | [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) | [#10590](https://github.com/statsmodels/statsmodels/pull/10590) |
 | [tensorly/tensorly](https://github.com/tensorly/tensorly) | [#691](https://github.com/tensorly/tensorly/pull/691) |
 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | [#4651](https://github.com/tesseract-ocr/tesseract/pull/4651) · [#4652](https://github.com/tesseract-ocr/tesseract/pull/4652) |
