@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 65 · Projects: 61**
+**Merged PRs: 66 · Projects: 62**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -20,6 +20,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | [#2111](https://github.com/datachain-ai/datachain/pull/2111) |
 | [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits) | [#84](https://github.com/david-cortes/contextualbandits/pull/84) |
 | [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
+| [docling-project/docling](https://github.com/docling-project/docling) | [#4818](https://github.com/docling-project/docling/pull/4818) |
 | [dpkp/kafka-python](https://github.com/dpkp/kafka-python) | [#3169](https://github.com/dpkp/kafka-python/pull/3169) |
 | [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) | [#2287](https://github.com/fsspec/filesystem_spec/pull/2287) |
 | [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) | [#286](https://github.com/graphql-python/graphql-core/pull/286) |
