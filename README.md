@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 66 · Projects: 62**
+**Merged PRs: 67 · Projects: 63**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -16,6 +16,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [cdgriffith/Box](https://github.com/cdgriffith/Box) | [#342](https://github.com/cdgriffith/Box/pull/342) |
 | [chardet/chardet](https://github.com/chardet/chardet) | [#405](https://github.com/chardet/chardet/pull/405) |
 | [csinva/imodels](https://github.com/csinva/imodels) | [#323](https://github.com/csinva/imodels/pull/323) |
+| [CyberAgentAILab/cmaes](https://github.com/CyberAgentAILab/cmaes) | [#231](https://github.com/CyberAgentAILab/cmaes/pull/231) |
 | [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat) | [#486](https://github.com/data-apis/array-api-compat/pull/486) |
 | [datachain-ai/datachain](https://github.com/datachain-ai/datachain) | [#2111](https://github.com/datachain-ai/datachain/pull/2111) |
 | [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits) | [#84](https://github.com/david-cortes/contextualbandits/pull/84) |
