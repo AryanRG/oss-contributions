@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 67 · Projects: 63**
+**Merged PRs: 69 · Projects: 65**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -37,6 +37,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [mindee/doctr](https://github.com/mindee/doctr) | [#2173](https://github.com/mindee/doctr/pull/2173) |
 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | [#2905](https://github.com/Mirascope/mirascope/pull/2905) |
 | [msgspec/msgspec](https://github.com/msgspec/msgspec) | [#1284](https://github.com/msgspec/msgspec/pull/1284) |
+| [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit) | [#1249](https://github.com/neuropsychology/NeuroKit/pull/1249) |
 | [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) | [#95](https://github.com/nhairs/python-json-logger/pull/95) |
 | [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) · [#642](https://github.com/openlawlibrary/pygls/pull/642) |
 | [optuna/optunahub](https://github.com/optuna/optunahub) | [#154](https://github.com/optuna/optunahub/pull/154) |
@@ -47,6 +48,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [pypa/pipx](https://github.com/pypa/pipx) | [#2157](https://github.com/pypa/pipx/pull/2157) |
 | [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata) | [#342](https://github.com/pypa/pyproject-metadata/pull/342) |
 | [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) | [#1778](https://github.com/python-cmd2/cmd2/pull/1778) · [#1779](https://github.com/python-cmd2/cmd2/pull/1779) |
+| [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core) | [#986](https://github.com/python-poetry/poetry-core/pull/986) |
 | [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) | [#761](https://github.com/RapidAI/RapidOCR/pull/761) |
 | [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) | [#502](https://github.com/rapidfuzz/RapidFuzz/pull/502) |
 | [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | [#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391) |
