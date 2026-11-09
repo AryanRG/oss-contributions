@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 69 · Projects: 65**
+**Merged PRs: 70 · Projects: 66**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -41,6 +41,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) | [#95](https://github.com/nhairs/python-json-logger/pull/95) |
 | [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) | [#639](https://github.com/openlawlibrary/pygls/pull/639) · [#641](https://github.com/openlawlibrary/pygls/pull/641) · [#642](https://github.com/openlawlibrary/pygls/pull/642) |
 | [optuna/optunahub](https://github.com/optuna/optunahub) | [#154](https://github.com/optuna/optunahub/pull/154) |
+| [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax) | [#267](https://github.com/patrick-kidger/lineax/pull/267) |
 | [psycopg/psycopg](https://github.com/psycopg/psycopg) | [#1447](https://github.com/psycopg/psycopg/pull/1447) |
 | [pydata/xarray](https://github.com/pydata/xarray) | [#11808](https://github.com/pydata/xarray/pull/11808) |
 | [pypa/distlib](https://github.com/pypa/distlib) | [#277](https://github.com/pypa/distlib/pull/277) |
