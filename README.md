@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories. Each link leads to the upstream PR and its review history.
 
-**Merged PRs: 70 · Projects: 66**
+**Merged PRs: 74 · Projects: 70**
 
 | Project | Merged pull requests |
 | --- | --- |
@@ -23,6 +23,10 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 | [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum) | [#266](https://github.com/dgasmith/opt_einsum/pull/266) |
 | [docling-project/docling](https://github.com/docling-project/docling) | [#4818](https://github.com/docling-project/docling/pull/4818) |
 | [dpkp/kafka-python](https://github.com/dpkp/kafka-python) | [#3169](https://github.com/dpkp/kafka-python/pull/3169) |
+| [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) | [#451](https://github.com/executablebooks/markdown-it-py/pull/451) |
+| [executablebooks/mdit-py-plugins](https://github.com/executablebooks/mdit-py-plugins) | [#161](https://github.com/executablebooks/mdit-py-plugins/pull/161) |
+| [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser) | [#1214](https://github.com/executablebooks/MyST-Parser/pull/1214) |
+| [feast-dev/feast](https://github.com/feast-dev/feast) | [#7071](https://github.com/feast-dev/feast/pull/7071) |
 | [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) | [#2287](https://github.com/fsspec/filesystem_spec/pull/2287) |
 | [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) | [#286](https://github.com/graphql-python/graphql-core/pull/286) |
 | [jaraco/inflect](https://github.com/jaraco/inflect) | [#281](https://github.com/jaraco/inflect/pull/281) |
