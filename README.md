@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 77 · Projects: 73**
+**Merged PRs: 78 · Projects: 74**
 
 ## OCR, documents and NLP
 
@@ -104,5 +104,9 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [apache/commons-numbers](https://github.com/apache/commons-numbers): Fix representable minimum-value powers ([#223](https://github.com/apache/commons-numbers/pull/223))
 - [apache/poi](https://github.com/apache/poi): Reject prohibited NUL and ETX characters in sheet names ([#1433](https://github.com/apache/poi/pull/1433))
 - [Kong/unirest-java](https://github.com/Kong/unirest-java): Encode URL-encoded form field names ([#582](https://github.com/Kong/unirest-java/pull/582))
+
+## Other
+
+- [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 
 This page is generated from GitHub's merged-PR records. Open, draft, and closed-unmerged PRs are not counted.
