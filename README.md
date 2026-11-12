@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 78 · Projects: 74**
+**Merged PRs: 80 · Projects: 76**
 
 ## OCR, documents and NLP
 
@@ -107,6 +107,8 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 
 ## Other
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack): Reject multi-label cross encoders in SASEvaluator ([#13251](https://github.com/deepset-ai/haystack/pull/13251))
+- [esa/torchquad](https://github.com/esa/torchquad): Promote Boolean samples before quadrature ([#271](https://github.com/esa/torchquad/pull/271))
 - [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 
 This page is generated from GitHub's merged-PR records. Open, draft, and closed-unmerged PRs are not counted.
