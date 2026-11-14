@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 83 · Projects: 79**
+**Merged PRs: 85 · Projects: 81**
 
 ## OCR, documents and NLP
 
@@ -109,7 +109,9 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack): Reject multi-label cross encoders in SASEvaluator ([#13251](https://github.com/deepset-ai/haystack/pull/13251))
 - [esa/torchquad](https://github.com/esa/torchquad): Promote Boolean samples before quadrature ([#271](https://github.com/esa/torchquad/pull/271))
+- [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari): Preserve image encoding when combining datasets ([#375](https://github.com/Farama-Foundation/Minari/pull/375))
 - [lab-cosmo/torch-pme](https://github.com/lab-cosmo/torch-pme): Fix slab corrections in combined potentials ([#226](https://github.com/lab-cosmo/torch-pme/pull/226))
+- [lezcano/geotorch](https://github.com/lezcano/geotorch): Fix wide AlmostOrthogonal sampling and registration ([#56](https://github.com/lezcano/geotorch/pull/56))
 - [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 - [optuna/optuna](https://github.com/optuna/optuna): Fix pickling of GA samplers ([#6933](https://github.com/optuna/optuna/pull/6933))
 - [scikit-activeml/scikit-activeml](https://github.com/scikit-activeml/scikit-activeml): Preserve array-like sample weights in EMC bootstraps ([#607](https://github.com/scikit-activeml/scikit-activeml/pull/607))
