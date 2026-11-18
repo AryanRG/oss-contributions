@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 91 · Projects: 87**
+**Merged PRs: 96 · Projects: 90**
 
 ## OCR, documents and NLP
 
@@ -59,6 +59,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 ## LLM tooling, data and databases
 
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain): Align read_values rows with explicit output order ([#2111](https://github.com/datachain-ai/datachain/pull/2111))
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain): Fix joins between branches that share a query table ([#2236](https://github.com/datachain-ai/datachain/pull/2236))
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python): Raise timeout for unfinished producer futures at deadline ([#3169](https://github.com/dpkp/kafka-python/pull/3169))
 - [feast-dev/feast](https://github.com/feast-dev/feast): Preserve colliding source timestamps in Dask retrieval ([#7071](https://github.com/feast-dev/feast/pull/7071))
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): Create parent directories before FSMap batch writes ([#2287](https://github.com/fsspec/filesystem_spec/pull/2287))
@@ -73,6 +74,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [agronholm/anyio](https://github.com/agronholm/anyio): Fix short writes in UNIXSocketStream.send_fds() ([#1422](https://github.com/agronholm/anyio/pull/1422))
 - [agronholm/exceptiongroup](https://github.com/agronholm/exceptiongroup): Honor traceback limits for exceptions nested in groups ([#159](https://github.com/agronholm/exceptiongroup/pull/159))
 - [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core): Close the consumed subscription source iterator ([#286](https://github.com/graphql-python/graphql-core/pull/286))
+- [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core): Settle owned execution tasks when consumers are cancelled ([#323](https://github.com/graphql-python/graphql-core/pull/323))
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls): Handle offsets in empty documents ([#639](https://github.com/openlawlibrary/pygls/pull/639))
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls): Apply empty notebook metadata updates ([#641](https://github.com/openlawlibrary/pygls/pull/641))
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls): Avoid request-future mutation during shutdown ([#642](https://github.com/openlawlibrary/pygls/pull/642))
@@ -120,6 +122,9 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 - [optuna/optuna](https://github.com/optuna/optuna): Fix pickling of GA samplers ([#6933](https://github.com/optuna/optuna/pull/6933))
 - [pypa/auditwheel](https://github.com/pypa/auditwheel): Honor manylinux aliases in graft policy selection ([#747](https://github.com/pypa/auditwheel/pull/747))
+- [python-streamz/streamz](https://github.com/python-streamz/streamz): Fix slice step offsets and empty bounds ([#505](https://github.com/python-streamz/streamz/pull/505))
+- [Quansight-Labs/ndindex](https://github.com/Quansight-Labs/ndindex): Fix axis tracking when reducing trailing slices ([#258](https://github.com/Quansight-Labs/ndindex/pull/258))
 - [scikit-activeml/scikit-activeml](https://github.com/scikit-activeml/scikit-activeml): Preserve array-like sample weights in EMC bootstraps ([#607](https://github.com/scikit-activeml/scikit-activeml/pull/607))
+- [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram): Normalize vectorized histogram bin indices ([#1210](https://github.com/scikit-hep/boost-histogram/pull/1210))
 
 This page is generated from GitHub's merged-PR records. Open, draft, and closed-unmerged PRs are not counted.
