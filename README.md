@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 96 · Projects: 90**
+**Merged PRs: 100 · Projects: 92**
 
 ## OCR, documents and NLP
 
@@ -47,6 +47,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo): Fix recurrent mult-add counts for cells and unbatched inputs ([#429](https://github.com/TylerYep/torchinfo/pull/429))
 - [unit8co/darts](https://github.com/unit8co/darts): Fix MIDAS padding for short multivariate and sampled series ([#3304](https://github.com/unit8co/darts/pull/3304))
 - [zillow/quantile-forest](https://github.com/zillow/quantile-forest): Fix sample weight indexing when collecting leaf samples ([#168](https://github.com/zillow/quantile-forest/pull/168))
+- [zillow/quantile-forest](https://github.com/zillow/quantile-forest): Fix interpolated quantiles for weights below one ([#216](https://github.com/zillow/quantile-forest/pull/216))
 
 ## Arrays and scientific computing
 
@@ -64,6 +65,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [feast-dev/feast](https://github.com/feast-dev/feast): Preserve colliding source timestamps in Dask retrieval ([#7071](https://github.com/feast-dev/feast/pull/7071))
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): Create parent directories before FSMap batch writes ([#2287](https://github.com/fsspec/filesystem_spec/pull/2287))
 - [kayak/pypika](https://github.com/kayak/pypika): Fix negative subtraction generating SQL comments ([#3548](https://github.com/kayak/pypika/pull/3548))
+- [kayak/pypika](https://github.com/kayak/pypika): Add wildcard column exclusions for DuckDB, Spark, and Databricks ([#3569](https://github.com/kayak/pypika/pull/3569))
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python): Preserve explicit parent for child events ([#2045](https://github.com/langfuse/langfuse-python/pull/2045))
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope): Preserve Annotated Field constraints in tool schemas ([#2905](https://github.com/Mirascope/mirascope/pull/2905))
 - [psycopg/psycopg](https://github.com/psycopg/psycopg): Preserve JSONB OID in custom adapter fallback ([#1447](https://github.com/psycopg/psycopg/pull/1447))
@@ -126,5 +128,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [Quansight-Labs/ndindex](https://github.com/Quansight-Labs/ndindex): Fix axis tracking when reducing trailing slices ([#258](https://github.com/Quansight-Labs/ndindex/pull/258))
 - [scikit-activeml/scikit-activeml](https://github.com/scikit-activeml/scikit-activeml): Preserve array-like sample weights in EMC bootstraps ([#607](https://github.com/scikit-activeml/scikit-activeml/pull/607))
 - [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram): Normalize vectorized histogram bin indices ([#1210](https://github.com/scikit-hep/boost-histogram/pull/1210))
+- [scikit-learn-contrib/MAPIE](https://github.com/scikit-learn-contrib/MAPIE): Fix group alignment after zero-weight filtering ([#1012](https://github.com/scikit-learn-contrib/MAPIE/pull/1012))
+- [stumpy-dev/stumpy](https://github.com/stumpy-dev/stumpy): Fix discord subspace dimension ordering ([#1226](https://github.com/stumpy-dev/stumpy/pull/1226))
 
 This page is generated from GitHub's merged-PR records. Open, draft, and closed-unmerged PRs are not counted.
