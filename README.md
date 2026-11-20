@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 100 · Projects: 92**
+**Merged PRs: 101 · Projects: 92**
 
 ## OCR, documents and NLP
 
@@ -91,6 +91,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [pypa/distlib](https://github.com/pypa/distlib): Preserve regular-file symlinks in manifest discovery ([#277](https://github.com/pypa/distlib/pull/277))
 - [pypa/flit](https://github.com/pypa/flit): Preserve URL and marker brackets when normalizing dependency extras ([#834](https://github.com/pypa/flit/pull/834))
 - [pypa/packaging](https://github.com/pypa/packaging): Fix inherited metadata class field validation and serialization ([#1454](https://github.com/pypa/packaging/pull/1454))
+- [pypa/packaging](https://github.com/pypa/packaging): Free-threaded wheel tags when a generic ABI comes first ([#1555](https://github.com/pypa/packaging/pull/1555))
 - [pypa/pipx](https://github.com/pypa/pipx): Allow selecting dependencies that only ship shell completions ([#2157](https://github.com/pypa/pipx/pull/2157))
 - [pypa/pyproject-metadata](https://github.com/pypa/pyproject-metadata): Normalize extra names and reject collisions ([#342](https://github.com/pypa/pyproject-metadata/pull/342))
 - [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2): Fix history ranges starting past the end ([#1778](https://github.com/python-cmd2/cmd2/pull/1778))
