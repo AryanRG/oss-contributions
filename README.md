@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 101 · Projects: 92**
+**Merged PRs: 103 · Projects: 93**
 
 ## OCR, documents and NLP
 
@@ -15,6 +15,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR): Preserve resize ratios across both size limits ([#761](https://github.com/RapidAI/RapidOCR/pull/761))
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz): Fix zero deletion cost in Python Levenshtein distance ([#502](https://github.com/rapidfuzz/RapidFuzz/pull/502))
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza): Fix preserved manual MWT word offsets after automatic expansion ([#1706](https://github.com/stanfordnlp/stanza/pull/1706))
+- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza): Keep coreference spans aligned with their heads when sorting ([#1749](https://github.com/stanfordnlp/stanza/pull/1749))
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Propagate min_characters_to_try to automatic OSD engine ([#4651](https://github.com/tesseract-ocr/tesseract/pull/4651))
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Escape input names in ALTO and PAGE XML ([#4652](https://github.com/tesseract-ocr/tesseract/pull/4652))
 
@@ -124,6 +125,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [lezcano/geotorch](https://github.com/lezcano/geotorch): Fix wide AlmostOrthogonal sampling and registration ([#56](https://github.com/lezcano/geotorch/pull/56))
 - [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 - [optuna/optuna](https://github.com/optuna/optuna): Fix pickling of GA samplers ([#6933](https://github.com/optuna/optuna/pull/6933))
+- [py-why/EconML](https://github.com/py-why/EconML): Preserve model specifications when refitting metalearners ([#1084](https://github.com/py-why/EconML/pull/1084))
 - [pypa/auditwheel](https://github.com/pypa/auditwheel): Honor manylinux aliases in graft policy selection ([#747](https://github.com/pypa/auditwheel/pull/747))
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Fix slice step offsets and empty bounds ([#505](https://github.com/python-streamz/streamz/pull/505))
 - [Quansight-Labs/ndindex](https://github.com/Quansight-Labs/ndindex): Fix axis tracking when reducing trailing slices ([#258](https://github.com/Quansight-Labs/ndindex/pull/258))
