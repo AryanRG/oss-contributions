@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 103 · Projects: 93**
+**Merged PRs: 107 · Projects: 95**
 
 ## OCR, documents and NLP
 
@@ -33,8 +33,10 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [david-cortes/contextualbandits](https://github.com/david-cortes/contextualbandits): Preserve reward estimates in doubly robust evaluation ([#84](https://github.com/david-cortes/contextualbandits/pull/84))
 - [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo): Allow non-string agent IDs in aec_to_parallel ([#1528](https://github.com/Farama-Foundation/PettingZoo/pull/1528))
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): Preserve Tuplet endpoint values and zero-margin gradients ([#765](https://github.com/KevinMusgrave/pytorch-metric-learning/pull/765))
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): Apply distance ranges to all-strategy mining ([#813](https://github.com/KevinMusgrave/pytorch-metric-learning/pull/813))
 - [MaxHalford/prince](https://github.com/MaxHalford/prince): Preserve fitted column names in PCA inverse_transform ([#261](https://github.com/MaxHalford/prince/pull/261))
 - [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit): Normalize signal_merge inputs before merging ([#1249](https://github.com/neuropsychology/NeuroKit/pull/1249))
+- [neuropsychology/NeuroKit](https://github.com/neuropsychology/NeuroKit): Preserve zero-crossing direction for unsigned signals ([#1262](https://github.com/neuropsychology/NeuroKit/pull/1262))
 - [optuna/optunahub](https://github.com/optuna/optunahub): Invalidate stale submodules when switching local registry roots ([#154](https://github.com/optuna/optunahub/pull/154))
 - [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): Refresh optimization direction after set_params ([#391](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/391))
 - [sbi-dev/sbi](https://github.com/sbi-dev/sbi): Update ensemble potential when weights change ([#2094](https://github.com/sbi-dev/sbi/pull/2094))
@@ -114,6 +116,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 ## Other
 
 - [apache/commons-daemon](https://github.com/apache/commons-daemon): DAEMON-479: Accept wrapped classes in jsvc -check ([#317](https://github.com/apache/commons-daemon/pull/317))
+- [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): Fix identity transpose canonicalization in the C++ backend ([#3605](https://github.com/cvxpy/cvxpy/pull/3605))
 - [cvxpy/cvxpylayers](https://github.com/cvxpy/cvxpylayers): Restore floating parameter dtype in Torch solutions ([#256](https://github.com/cvxpy/cvxpylayers/pull/256))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack): Reject multi-label cross encoders in SASEvaluator ([#13251](https://github.com/deepset-ai/haystack/pull/13251))
 - [dynamicslab/pykoopman](https://github.com/dynamicslab/pykoopman): Preserve retained state coordinates in RBF inverse ([#79](https://github.com/dynamicslab/pykoopman/pull/79))
@@ -127,6 +130,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [optuna/optuna](https://github.com/optuna/optuna): Fix pickling of GA samplers ([#6933](https://github.com/optuna/optuna/pull/6933))
 - [py-why/EconML](https://github.com/py-why/EconML): Preserve model specifications when refitting metalearners ([#1084](https://github.com/py-why/EconML/pull/1084))
 - [pypa/auditwheel](https://github.com/pypa/auditwheel): Honor manylinux aliases in graft policy selection ([#747](https://github.com/pypa/auditwheel/pull/747))
+- [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export): Preserve exact Python pins in pylock exports ([#375](https://github.com/python-poetry/poetry-plugin-export/pull/375))
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Fix slice step offsets and empty bounds ([#505](https://github.com/python-streamz/streamz/pull/505))
 - [Quansight-Labs/ndindex](https://github.com/Quansight-Labs/ndindex): Fix axis tracking when reducing trailing slices ([#258](https://github.com/Quansight-Labs/ndindex/pull/258))
 - [scikit-activeml/scikit-activeml](https://github.com/scikit-activeml/scikit-activeml): Preserve array-like sample weights in EMC bootstraps ([#607](https://github.com/scikit-activeml/scikit-activeml/pull/607))
