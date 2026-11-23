@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 107 · Projects: 95**
+**Merged PRs: 108 · Projects: 95**
 
 ## OCR, documents and NLP
 
@@ -42,6 +42,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [sbi-dev/sbi](https://github.com/sbi-dev/sbi): Update ensemble potential when weights change ([#2094](https://github.com/sbi-dev/sbi/pull/2094))
 - [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict): Preserve test-row indexes in prediction results ([#575](https://github.com/shankarpandala/lazypredict/pull/575))
 - [SimplexLab/TorchJD](https://github.com/SimplexLab/TorchJD): Use squared distances for Krum scores ([#835](https://github.com/SimplexLab/TorchJD/pull/835))
+- [SimplexLab/TorchJD](https://github.com/SimplexLab/TorchJD): Promote mixed-dtype Jacobians before computing their Gramian ([#847](https://github.com/SimplexLab/TorchJD/pull/847))
 - [sknetwork-team/scikit-network](https://github.com/sknetwork-team/scikit-network): Preserve exact integer node identifiers when reindexing edge lists ([#611](https://github.com/sknetwork-team/scikit-network/pull/611))
 - [skops-dev/skops](https://github.com/skops-dev/skops): Support relative output paths in skops update ([#559](https://github.com/skops-dev/skops/pull/559))
 - [skrub-data/skrub](https://github.com/skrub-data/skrub): Fix TableReport counts for unused pandas categories ([#2348](https://github.com/skrub-data/skrub/pull/2348))
