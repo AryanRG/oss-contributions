@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 108 · Projects: 95**
+**Merged PRs: 111 · Projects: 96**
 
 ## OCR, documents and NLP
 
@@ -58,6 +58,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [data-apis/array-api-compat](https://github.com/data-apis/array-api-compat): Fix NumPy clip with read-only integer bounds ([#486](https://github.com/data-apis/array-api-compat/pull/486))
 - [dgasmith/opt_einsum](https://github.com/dgasmith/opt_einsum): Track peak size in the BranchBound memory fallback ([#266](https://github.com/dgasmith/opt_einsum/pull/266))
 - [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax): Preserve complex NumPy scalars in operator structure checks ([#267](https://github.com/patrick-kidger/lineax/pull/267))
+- [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax): Preserve preconditioning in normal-equation JVPs ([#276](https://github.com/patrick-kidger/lineax/pull/276))
 - [pydata/xarray](https://github.com/pydata/xarray): Fix unstacking after selecting stacked features ([#11808](https://github.com/pydata/xarray/pull/11808))
 - [tensorly/tensorly](https://github.com/tensorly/tensorly): Fix complex CP weights in alternate MTTKRP implementations ([#691](https://github.com/tensorly/tensorly/pull/691))
 
@@ -136,6 +137,8 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [Quansight-Labs/ndindex](https://github.com/Quansight-Labs/ndindex): Fix axis tracking when reducing trailing slices ([#258](https://github.com/Quansight-Labs/ndindex/pull/258))
 - [scikit-activeml/scikit-activeml](https://github.com/scikit-activeml/scikit-activeml): Preserve array-like sample weights in EMC bootstraps ([#607](https://github.com/scikit-activeml/scikit-activeml/pull/607))
 - [scikit-hep/boost-histogram](https://github.com/scikit-hep/boost-histogram): Normalize vectorized histogram bin indices ([#1210](https://github.com/scikit-hep/boost-histogram/pull/1210))
+- [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders): Fix RankHot inverse transform dropping reordered columns ([#550](https://github.com/scikit-learn-contrib/category_encoders/pull/550))
+- [scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders): Fix hierarchical target priors for missing and ordered categories ([#556](https://github.com/scikit-learn-contrib/category_encoders/pull/556))
 - [scikit-learn-contrib/MAPIE](https://github.com/scikit-learn-contrib/MAPIE): Fix group alignment after zero-weight filtering ([#1012](https://github.com/scikit-learn-contrib/MAPIE/pull/1012))
 - [stumpy-dev/stumpy](https://github.com/stumpy-dev/stumpy): Fix discord subspace dimension ordering ([#1226](https://github.com/stumpy-dev/stumpy/pull/1226))
 
