@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 111 · Projects: 96**
+**Merged PRs: 113 · Projects: 97**
 
 ## OCR, documents and NLP
 
@@ -50,6 +50,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn): Exclude self from radius queries at large and infinite radii ([#786](https://github.com/tslearn-team/tslearn/pull/786))
 - [TylerYep/torchinfo](https://github.com/TylerYep/torchinfo): Fix recurrent mult-add counts for cells and unbatched inputs ([#429](https://github.com/TylerYep/torchinfo/pull/429))
 - [unit8co/darts](https://github.com/unit8co/darts): Fix MIDAS padding for short multivariate and sampled series ([#3304](https://github.com/unit8co/darts/pull/3304))
+- [unit8co/darts](https://github.com/unit8co/darts): Fix optimized historical forecasts with sparse target lags ([#3402](https://github.com/unit8co/darts/pull/3402))
 - [zillow/quantile-forest](https://github.com/zillow/quantile-forest): Fix sample weight indexing when collecting leaf samples ([#168](https://github.com/zillow/quantile-forest/pull/168))
 - [zillow/quantile-forest](https://github.com/zillow/quantile-forest): Fix interpolated quantiles for weights below one ([#216](https://github.com/zillow/quantile-forest/pull/216))
 
@@ -128,6 +129,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [kozistr/pytorch_optimizer](https://github.com/kozistr/pytorch_optimizer): Restore cosine restart schedules when resuming ([#670](https://github.com/kozistr/pytorch_optimizer/pull/670))
 - [lab-cosmo/torch-pme](https://github.com/lab-cosmo/torch-pme): Fix slab corrections in combined potentials ([#226](https://github.com/lab-cosmo/torch-pme/pull/226))
 - [lezcano/geotorch](https://github.com/lezcano/geotorch): Fix wide AlmostOrthogonal sampling and registration ([#56](https://github.com/lezcano/geotorch/pull/56))
+- [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics): Fix cached compute results after merging metric states ([#3600](https://github.com/Lightning-AI/torchmetrics/pull/3600))
 - [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 - [optuna/optuna](https://github.com/optuna/optuna): Fix pickling of GA samplers ([#6933](https://github.com/optuna/optuna/pull/6933))
 - [py-why/EconML](https://github.com/py-why/EconML): Preserve model specifications when refitting metalearners ([#1084](https://github.com/py-why/EconML/pull/1084))
