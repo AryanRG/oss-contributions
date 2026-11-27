@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 113 · Projects: 97**
+**Merged PRs: 115 · Projects: 98**
 
 ## OCR, documents and NLP
 
@@ -62,6 +62,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax): Preserve preconditioning in normal-equation JVPs ([#276](https://github.com/patrick-kidger/lineax/pull/276))
 - [pydata/xarray](https://github.com/pydata/xarray): Fix unstacking after selecting stacked features ([#11808](https://github.com/pydata/xarray/pull/11808))
 - [tensorly/tensorly](https://github.com/tensorly/tensorly): Fix complex CP weights in alternate MTTKRP implementations ([#691](https://github.com/tensorly/tensorly/pull/691))
+- [tensorly/tensorly](https://github.com/tensorly/tensorly): Fix masked Tucker reconstruction errors ([#714](https://github.com/tensorly/tensorly/pull/714))
 
 ## LLM tooling, data and databases
 
@@ -124,6 +125,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack): Reject multi-label cross encoders in SASEvaluator ([#13251](https://github.com/deepset-ai/haystack/pull/13251))
 - [dynamicslab/pykoopman](https://github.com/dynamicslab/pykoopman): Preserve retained state coordinates in RBF inverse ([#79](https://github.com/dynamicslab/pykoopman/pull/79))
 - [esa/torchquad](https://github.com/esa/torchquad): Promote Boolean samples before quadrature ([#271](https://github.com/esa/torchquad/pull/271))
+- [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad): Fix trailing-axis broadcasting for parameter bounds ([#1725](https://github.com/facebookresearch/nevergrad/pull/1725))
 - [Farama-Foundation/Minari](https://github.com/Farama-Foundation/Minari): Preserve image encoding when combining datasets ([#375](https://github.com/Farama-Foundation/Minari/pull/375))
 - [jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle): Fix Fortran array layout when decoding binary NumPy data ([#651](https://github.com/jsonpickle/jsonpickle/pull/651))
 - [kozistr/pytorch_optimizer](https://github.com/kozistr/pytorch_optimizer): Restore cosine restart schedules when resuming ([#670](https://github.com/kozistr/pytorch_optimizer/pull/670))
