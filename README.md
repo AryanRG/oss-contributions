@@ -2,7 +2,7 @@
 
 Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external public repositories, grouped by area. Each entry links to the upstream PR and its review history.
 
-**Merged PRs: 115 · Projects: 98**
+**Merged PRs: 116 · Projects: 99**
 
 ## OCR, documents and NLP
 
@@ -132,6 +132,7 @@ Merged pull requests by [@AryanRG](https://github.com/AryanRG) in external publi
 - [lab-cosmo/torch-pme](https://github.com/lab-cosmo/torch-pme): Fix slab corrections in combined potentials ([#226](https://github.com/lab-cosmo/torch-pme/pull/226))
 - [lezcano/geotorch](https://github.com/lezcano/geotorch): Fix wide AlmostOrthogonal sampling and registration ([#56](https://github.com/lezcano/geotorch/pull/56))
 - [Lightning-AI/torchmetrics](https://github.com/Lightning-AI/torchmetrics): Fix cached compute results after merging metric states ([#3600](https://github.com/Lightning-AI/torchmetrics/pull/3600))
+- [lmcinnes/pynndescent](https://github.com/lmcinnes/pynndescent): Preserve packed-bit query dtype and validate query shapes ([#280](https://github.com/lmcinnes/pynndescent/pull/280))
 - [nltk/nltk](https://github.com/nltk/nltk): Fix FreqDist cached totals after removing entries ([#3995](https://github.com/nltk/nltk/pull/3995))
 - [optuna/optuna](https://github.com/optuna/optuna): Fix pickling of GA samplers ([#6933](https://github.com/optuna/optuna/pull/6933))
 - [py-why/EconML](https://github.com/py-why/EconML): Preserve model specifications when refitting metalearners ([#1084](https://github.com/py-why/EconML/pull/1084))
